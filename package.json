@@ -1,0 +1,19 @@
+{
+  "name": "tpi-2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djmax513/TPI-2019.git"
+  },
+  "author": "Gabriel Macedo e Gustavo Faganello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Djmax513/TPI-2019/issues"
+  },
+  "homepage": "https://github.com/Djmax513/TPI-2019#readme"
+}

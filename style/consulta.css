@@ -1,0 +1,26 @@
+html{
+	background-image: url(media/imagem3.jpg);
+	background-size: cover;
+}
+#titulo{
+	font: normal 40px 'verdana';
+	color: white;
+	border-bottom: solid 2px white;
+	width: 40%;
+}
+.btn{
+	float: center;
+}
+button{
+	margin-bottom: 10px;
+	margin-right: 20px;
+	display: block;
+	border: none;
+	border-radius: 5px;
+	height: 40px;
+	width: 100px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}

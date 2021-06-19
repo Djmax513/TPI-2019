@@ -1,0 +1,56 @@
+html{
+	background-image: url(media/imagem1.jpg);
+	background-size: cover;
+}
+.box{
+	background-color: black;
+	opacity: 0.3;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	top: 50%;
+	left: 50%;
+	border: none;
+	padding: 250px 350px;
+	border-radius: 7px;
+}
+.titulo{
+	font: normal 40px 'verdana';
+	color: white;
+	margin-bottom: 20px;
+}
+form{
+	position: absolute;
+	transform: translate(-50%,-50%);
+	top: 50%;
+	left: 50%;
+}
+.campo{
+	opacity: 0.8;
+	border: none;
+	border-radius: 5px;
+	padding-left: 5px; 
+	height: 25px;
+	width: 60%;
+	/*margin-bottom: 10px;*/
+	display: block;
+}
+.label{
+	color: white;
+	font: normal 20px'verdana';
+	text-align: left;
+}
+h4{
+	display: inline-block;
+	margin-top: 0px;
+	font: normal 20px 'verdana';
+	color: white;
+}
+button{
+	opacity: 0.8;
+	border: none;
+	font: normal 20px 'arial';
+	padding: 5px 10px;
+	border-radius: 5px;
+	margin-right: 10px;
+
+}
